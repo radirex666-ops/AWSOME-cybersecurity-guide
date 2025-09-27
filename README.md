@@ -1,4 +1,4 @@
-# AWSOME-cybersecurity-guide
+# cybersecurity-guide
 https://www.arsamsabbagh.ir
 # Cybersecurity Blog Projects (English & فارسی)
 
